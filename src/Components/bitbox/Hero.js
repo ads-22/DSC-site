@@ -34,7 +34,7 @@ export default function Hero() {
             color='primary'
             style={{ background: '#4285F4', margin: '2rem auto', display:'block' }}
           >
-            Coming Soon !!
+            Registration:Coming Soon !!
           </Button>
           <Button
             data-aos="fade-left"
